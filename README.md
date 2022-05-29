@@ -1,4 +1,7 @@
 # FlashLigth
-![SmartPhone](https://user-images.githubusercontent.com/62101040/170883931-3c6efbb6-0724-4667-bb56-e8d02f244315.png)
 
-Um App de lanterna que, além de ligar a lanterna do celular ao tocar na tela, também acenderá quando for verificado o movimento de chacoalhar o celular.
+![SmartPhone](https://user-images.githubusercontent.com/62101040/170884304-93057a8c-c2ae-4e07-a09d-e44080d45044.png)
+
+<h3>Um App de lanterna que, além de ligar a lanterna do celular <br>
+    ao tocar na tela, também acenderá quando for verificado <br>
+    o movimento de chacoalhar o celular.<h3/>
